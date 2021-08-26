@@ -510,4 +510,4 @@ class Ui_Dialog(object):
         self.pushButton_copy_text.setText(_translate("Dialog", "СКОПИРОВАТЬ ВСЁ"))
         self.checkBox_exclude_repeat.setText(_translate("Dialog", "ИСКЛЮЧИТЬ ПОВТОР СИМВОЛОВ       "))
         self.label_number_password.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:10pt; font-weight:600;\">КОЛИЧЕСТВО ПАРОЛЕЙ</span></p></body></html>"))
-        self.label_length_password.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:10pt; font-weight:600;\">ДЛИНА ПОРОЛЯ</span></p></body></html>"))
+        self.label_length_password.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:10pt; font-weight:600;\">ДЛИНА ПАРОЛЯ</span></p></body></html>"))
